@@ -14,7 +14,7 @@ var questions = [{
   answers: ["Two", "Three", "Seven", "Eleven"],
   correctAnswer: "Three"
 }, {
-  question: "It's the only mythological animal mentioned in a Harry Potter book titile",
+  question: "It's the only mythological animal mentioned in a Harry Potter book title",
   answers: ["Dragon", "Owl", "Centaur", "Phoenix"],
   correctAnswer: "Phoenix"
 }, {
